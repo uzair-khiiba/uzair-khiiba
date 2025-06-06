@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:u.khuhro.29173@khi.iba.edu.pk">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
